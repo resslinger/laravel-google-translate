@@ -27,14 +27,14 @@
         }
     },
     "require": {
-        "php": "^8.0",
+        "php": "^8.2",
         "google/cloud-translate": "^1.2",
-        "illuminate/support": "11.*"
+        "illuminate/support": "12.*"
     },
     "require-dev": {
         "mockery/mockery": "^1.1",
-        "orchestra/testbench" : "7.*",
-        "phpunit/phpunit": "^9.0"
+        "orchestra/testbench" : "10.*",
+        "phpunit/phpunit": "^11.5"
     },
     "extra": {
         "laravel": {
